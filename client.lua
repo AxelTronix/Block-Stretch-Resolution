@@ -1,3 +1,5 @@
+-- You can add more Screen resolutions here
+
 local BlacklistedResolution = {
     [1] = {x = 1280,y = 768},
     [2] = {x = 1280,y = 1024},
